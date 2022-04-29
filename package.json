@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/iurynascimento/maker#readme",
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "rss-parser": "^3.12.0",
+    "sbd": "^1.0.19",
+    "superagent": "^7.1.3",
+    "unidecode": "^0.1.8"
   }
 }
