@@ -1,0 +1,22 @@
+{
+  "name": "maker",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iurynascimento/maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iurynascimento/maker/issues"
+  },
+  "homepage": "https://github.com/iurynascimento/maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
